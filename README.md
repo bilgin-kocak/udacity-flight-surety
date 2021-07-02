@@ -50,3 +50,8 @@ Deploy the contents of the ./dapp folder
 * [Solidity Language Reference](http://solidity.readthedocs.io/en/v0.4.24/)
 * [Ethereum Blockchain Explorer](https://etherscan.io/)
 * [Web3Js Reference](https://github.com/ethereum/wiki/wiki/JavaScript-API)
+
+## Licensing, Authors, Acknowledgements
+I would like to thank Udacity for creating a platform to learn and upscale my blockchain skills.
+
+[https://www.bilginkocak.com/](https://www.bilginkocak.com/)
